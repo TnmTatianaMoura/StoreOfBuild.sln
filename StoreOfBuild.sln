@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasStoreOfBuild.Domain", "ClasStoreOfBuild.Domain\ClasStoreOfBuild.Domain.csproj", "{A7E8B67E-14E5-44F3-BB50-3DF9D1D2F77D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStoreOfBuild.Domain", "ClasStoreOfBuild.Domain\ClassStoreOfBuild.Domain.csproj", "{A7E8B67E-14E5-44F3-BB50-3DF9D1D2F77D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
